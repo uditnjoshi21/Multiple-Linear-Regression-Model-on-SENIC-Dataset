@@ -16,7 +16,7 @@ The dataset contains 113 samples (rows) and 11 variables.
 
 
 
-# Description of the variables in the dataset (in ascending order):
+# Description of the variables in the dataset (in ascending order)-
 • Length of Stay (Y) 
 The average length of stay of all patients in hospital (in days). 
 
