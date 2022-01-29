@@ -17,36 +17,36 @@ The dataset contains 113 samples (rows) and 11 variables.
 
 
 # Description of the variables in the dataset (in ascending order)-
-• Length of Stay (Y) 
+##**• Length of Stay (Y) **
 The average length of stay of all patients in hospital (in days). 
 
-• Age (X1) 
+**• Age (X1) **
 The average age of patients (in years). 
 
-• Infection Risk (X2) 
+**• Infection Risk (X2) **
 The average estimated probability of acquiring infection in hospital (in percent). 
 
-• Routine Culturing Ratio (X3) 
+**• Routine Culturing Ratio (X3)** 
 The ratio of the number of cultures performed to the number of patients without signs or symptoms of hospital-acquired infection, times 100. 
 
-• Routine Chest X-ray Ratio (X4) 
+**• Routine Chest X-ray Ratio (X4) **
 The ratio of the number of X-rays performed to the number of patients without signs or symptoms of pneumonia, times 100. 
 
-• Number of Beds (X5) 
+**• Number of Beds (X5) **
 The average number of beds in the hospital during the study period. 
 
-• Medical School (X6) 
+**• Medical School (X6)** 
 Indicator of whether the hospital is associated with a medical school (1 = Yes, 2 = No). 
 
-• Region (X7) 
+**• Region (X7) **
 Indicator of the geographic region for hospital (1 = NE, 2 = NC, 3 = S, 4 = W). 
 
-• Average daily Census (X8) 
+**• Average daily Census (X8) **
 The average number of patients per day in the hospital during the study period. 
 
-• Number of nurses (X9) 
+**• Number of nurses (X9)** 
 The average number of full-time equivalent registered and licensed practical nurses during the study period (number of full-time plus one-half the number of part-time). 
 
-• Available facilities and services (X10) 
+**• Available facilities and services (X10) **
 Percent of 35 potential facilities and services that are provided by the hospital.
 
